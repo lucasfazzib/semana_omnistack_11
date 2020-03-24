@@ -1,5 +1,5 @@
 # BEtheHERO - Aplicação Omnistack 11.0
-
+Lucas Fazzi
 ## 💻 Projeto
 
 BE the HERO - Criação de app que vai conectar pessoas que tem vontade de ajudar a ONGs, o intuito é conectar pessoa que queiram ajudar monetariamente com as ONGs cadastradas no nosso sistema.
