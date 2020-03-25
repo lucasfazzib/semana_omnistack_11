@@ -35,10 +35,24 @@ BE the HERO - Criação de app que vai conectar pessoas que tem vontade de ajuda
 #### BACKEND 
         -> Node.js & Express
             -> Rotas e recursos
+                - Rotas: i.e localhost.com:3333/users
+                - Recurso: /users
             -> Métodos HTTP
-            -> Tipos de parâmetros
-        -> Configuração Nodemon
+                - GET:    Buscar informação no backend (default browser)
+                - POST:   Criar uma informação no backend
+                - PUT:    Alterar uma informação no backend
+                - DELETE: Deletar uma informação no backend
         -> Utilização do Insomnia
+            - Criação de requisições que funcionam como se fossem acessos no browser usando GET, POST, PUT, DELETE
+            - Enquanto desenvolvemos o bacnk utilizamos o insomnia para os teste das rotas e recursos, nomes de usuários, senhas... 
+        -> Tipos de parâmetros
+            - Query Params: Parâmetros nomeados enviados na rota após o símboo de (?) e geralmente eles serevem para filtros, paginação.
+
+            - Route Params: Parâmetros utilizados para identificar recursos.
+
+            - Request Body: Corpo da requisição, utilizado para criar e alterar recursos.
+            
+        -> Configuração Nodemon
         -> Diferenças entre banco de dados
         -> Configurando Banco de Dados
         -> Pensando nas Entidades e funcionalidades
