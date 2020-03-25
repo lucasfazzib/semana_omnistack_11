@@ -33,4 +33,16 @@ BE the HERO - Criação de app que vai conectar pessoas que tem vontade de ajuda
             -> Instalações de pacotes essencias para o Visual Studio Code, vãi ser comentados no código.
 
 #### BACKEND 
+        -> Node.js & Express
+            -> Rotas e recursos
+            -> Métodos HTTP
+            -> Tipos de parâmetros
+        -> Configuração Nodemon
+        -> Utilização do Insomnia
+        -> Diferenças entre banco de dados
+        -> Configurando Banco de Dados
+        -> Pensando nas Entidades e funcionalidades
+        -> Construção do BackEnd
+        -> Adicionando módulos CORS( segurança )
+        -> Versionamento com Github.
         
