@@ -82,7 +82,7 @@ BE the HERO - Criação de app que vai conectar pessoas que tem vontade de ajuda
                 - ONG
                 - Caso (incident)
             
-            - Funxionalidades:
+            - Funcionalidades:
                 - Login de ONG
                 - Logout de ONG
                 - Cadastro de ONG
